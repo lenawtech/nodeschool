@@ -1,4 +1,4 @@
-## javascripting
+# javascripting
 
 > Some basic exercises for Javascript.
 
